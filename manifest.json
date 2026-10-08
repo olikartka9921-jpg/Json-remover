@@ -1,0 +1,10 @@
+{
+  "display_name": "Auto JSON Cleaner",
+  "loading_order": 100,
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Custom",
+  "version": "1.1.0",
+  "homePage": ""
+}

@@ -1,0 +1,16 @@
+.auto-json-cleaner .inline-drawer-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.auto-json-cleaner label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.auto-json-cleaner small {
+    opacity: 0.7;
+}
